@@ -1,0 +1,59 @@
+*{
+  background-color: #DFE7B4;
+}
+
+p{
+  font-family: "Spline Sans Mono", monospace;
+  font-size: 90%;
+}
+
+li{
+  color:#836D9E;
+}
+
+ul.redirecciones{
+  font-family: "Spline Sans Mono", monospace;
+  font-size: 90%;
+  text-decoration:none;
+  color:#836D9E;
+}
+
+.logo{
+  width: 10%;
+  length: 10%
+}
+
+.formulario{
+  font-family: "Spline Sans Mono", monospace;
+  font-size: 90%;
+}
+.tituloContenedor{
+  font-family: "VT323", monospace;
+  font-size: 150%;
+  color:#8FA564
+}
+
+
+#LinkedIN{
+ display: flex;
+ gap: 10px
+}
+
+#GitHub{
+  display: flex;
+  gap: 10px
+ }
+
+ #saludo{
+  font-family: "VT323", monospace;
+  color:#836D9E;
+}
+
+
+  /* Paleta de colores en hexadecimal*/
+.violeta-1-hex { color: #8FA564; }
+.violeta-2-hex { color: #DFE7B4; }
+.violeta-3-hex { color: #E7E4DF; }
+.violeta-4-hex { color: #D0CBEB; }
+.violeta-5-hex { color: #836D9E; }
+
